@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="homework01.c">
+    <ClCompile Include="D:\학교\객체지향설계\5주차\WEEK05_CODE\homework_05_02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
